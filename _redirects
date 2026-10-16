@@ -1,0 +1,2 @@
+# Every page lives inside index.html; send direct visits to any *.html page there instead of a 404.
+/:page.html  /index.html  200
